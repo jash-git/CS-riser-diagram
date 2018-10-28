@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Graphic">
+</Property><Property Name="方案檔" Value="C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Graphic.sln">
+</Property><Property Name="Date" Value="2016年11月24日">
+</Property><Property Name="Time" Value="上午 11:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Graphic.sln" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic.sln">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Graphic.csproj" Description="專案檔已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Graphic.csproj">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Common.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Common.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmManageObject.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmManageObject.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmManageObject.Designer.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmManageObject.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmSchema.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmSchema.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmSchema.Designer.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmSchema.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\GScenario.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\GScenario.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Program.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Program.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmManageObject.resx" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmManageObject.resx">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\FrmSchema.resx" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\FrmSchema.resx">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\RD\Desktop\C# diagram editor[升位圖]\A Utility for Network Diagrams\Graphic\Backup\Graphic\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Graphic.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Graphic" Source="Graphic\Graphic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Graphic.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Graphic.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Graphic" Source="Graphic\Graphic.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

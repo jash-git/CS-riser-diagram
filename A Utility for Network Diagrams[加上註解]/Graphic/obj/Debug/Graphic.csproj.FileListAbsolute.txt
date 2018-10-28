@@ -1,0 +1,9 @@
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\bin\Debug\Graphic.exe
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\bin\Debug\Graphic.pdb
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.csprojResolveAssemblyReference.cache
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.FrmManageObject.resources
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.FrmSchema.resources
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.csproj.GenerateResource.Cache
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.exe
+C:\Users\usernb\Desktop\107_C# 元件拖拉(升位圖~riser  diagram)\A Utility for Network Diagrams[加上註解]\Graphic\obj\Debug\Graphic.pdb

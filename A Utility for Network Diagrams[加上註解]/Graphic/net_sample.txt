@@ -1,0 +1,71 @@
+object=Emitter_0;
+type=Emitter;
+x1=116;
+y1=119;
+lnk1=;
+x2=196;
+y2=199;
+lnk2=;
+end object.
+
+object=Receiver_0;
+type=Receiver;
+x1=674;
+y1=145;
+lnk1=;
+x2=754;
+y2=225;
+lnk2=;
+end object.
+
+object=Receiver_1;
+type=Receiver;
+x1=589;
+y1=436;
+lnk1=;
+x2=669;
+y2=516;
+lnk2=;
+end object.
+
+object=Router_0;
+type=Router;
+x1=447;
+y1=259;
+lnk1=;
+x2=527;
+y2=339;
+lnk2=;
+end object.
+
+object=Line_0;
+type=Line;
+x1=156;
+y1=159;
+lnk1=Emitter_0;
+x2=487;
+y2=299;
+lnk2=Router_0;
+end object.
+
+object=Line_1;
+type=Line;
+x1=487;
+y1=299;
+lnk1=Router_0;
+x2=714;
+y2=185;
+lnk2=Receiver_0;
+end object.
+
+object=Line_2;
+type=Line;
+x1=487;
+y1=299;
+lnk1=Router_0;
+x2=629;
+y2=476;
+lnk2=Receiver_1;
+end object.
+
+end network file.
